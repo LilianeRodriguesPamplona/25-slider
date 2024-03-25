@@ -1,0 +1,1 @@
+Controle deslizante ES6!
